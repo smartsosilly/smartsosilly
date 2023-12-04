@@ -5,13 +5,13 @@
 
 - 🤝 I’m looking for help with **Mathematics**
 
-- 📫 How to reach me **https://instagram.com/@smartsosilly**
+- 📫 How to reach me **https://instagram.com/@smrleth**
 
-- 📕 Visit my GitBook **https://smartsosilly.gitbook.io/smartsosilly**
+- 📕 Visit my GitBook **https://smrleth.gitbook.io/smrleth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/smartsosilly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smartsillysh" height="30" width="40" /></a>
+<a href="https://instagram.com/smrleth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smrleth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
